@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169688902185",
+    "project_id": "notif-75c8e",
+    "storage_bucket": "notif-75c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169688902185:android:00d017af146ea47b898a38",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169688902185-cdr26mihu9mce0evgh89d5frt8sdg49h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AyIIkBrJXRdKliyUoTIfUwdErut-22M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169688902185-cdr26mihu9mce0evgh89d5frt8sdg49h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
